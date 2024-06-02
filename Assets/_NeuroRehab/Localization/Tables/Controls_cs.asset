@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Controls_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 35a391479379eff43a3efa870c770a78, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136689037312
+    m_Localized: 'Pohyb : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371532312576
+    m_Localized: "Kamera nahoru / dol\u016F : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 680002400256
+    m_Localized: 'Kamera vlevo/vpravo : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880586600448
+    m_Localized: "Re\u017Eim uchopen\xED : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021611683840
+    m_Localized: 'Menu : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222787280896
+    m_Localized: "Interakce u\u017Eivatelsk\xE9ho rozhran\xED/uchopen\xED : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495582384128
+    m_Localized: "Alternativn\xED pohyb : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2767226482688
+    m_Localized: 'Rotace kamery : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910147391488
+    m_Localized: "Oto\u010Den\xED : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3327740686336
+    m_Localized: "Uchopen\xED (dr\u017Een\xED) : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3591390441472
+    m_Localized: "Alternativn\xED uchopen\xED (dr\u017Een\xED) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740011409408
+    m_Localized: "Menu na z\xE1p\u011Bst\xED :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3904629452800
+    m_Localized: "Statick\xE9 menu (podr\u017Een\xED) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193499557888
+    m_Localized: "Interakce u\u017Eivatelsk\xE9ho rozhran\xED :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4417525723136
+    m_Localized: "Alternativn\xED interakce s u\u017Eivatelsk\xFDm rozhran\xEDm:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6814415269888
+    m_Localized: "Ovl\xE1d\xE1n\xED* lev\xE9 ruky : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7097774059520
+    m_Localized: "Ovl\xE1d\xE1n\xED* prav\xE9 ruky : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233703063552
+    m_Localized: "Ovl\xE1d\xE1n\xED* hlavy : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7518454362112
+    m_Localized: "Manipulace s ovl\xE1d\xE1n\xEDm* : "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7891030192128
+    m_Localized: "Manipulace vzd\xE1lenosti ovl\xE1dan\xED* :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8196006424576
+    m_Localized: "Manipulovat s rotac\xED (libovoln\xFDm ovl\xE1dac\xEDm prvkem*)
+      :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8392132079616
+    m_Localized: "Menu ( Ovl\xE1d\xE1n\xED levou rukou*) [p\u0159idr\u017Eet] :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8581425213440
+    m_Localized: "Uchopen\xED (libovoln\xFDm ovl\xE1d\xE1n\xEDm ruky*) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9087757398016
+    m_Localized: "Pohyb (ovl\xE1d\xE1n\xED levou rukou*) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9252996198400
+    m_Localized: "Oto\u010Den\xED (ovl\xE1d\xE1n\xED levou rukou*) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9469778800640
+    m_Localized: "Pohyb (ovl\xE1d\xE1n\xED pravou rukou*) :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9647365632000
+    m_Localized: "Oto\u010Den\xED (ovl\xE1d\xE1n\xED pravou rukou*) :"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

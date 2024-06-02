@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Messages_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 0be9220c769ff52428ebcf7f5cbe6e94, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8843559360979533849
+  m_TableData:
+  - m_Id: 8611770368
+    m_Localized: Pohyb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276514549760
+    m_Localized: Oddech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31390184583168
+    m_Localized: "Cvi\u010Den\xED ji\u017E za\u010Dalo! Nelze zah\xE1jit nov\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31795048165376
+    m_Localized: "\u017D\xE1dn\xFD pacient nen\xED p\u0159\xEDtomen! Nelze za\u010D\xEDt
+      cvi\u010Den\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31972593053696
+    m_Localized: "Nen\xED vybr\xE1n \u017E\xE1dn\xFD typ animace! Nelze za\u010D\xEDt
+      cvi\u010Den\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32119691489280
+    m_Localized: "P\u0159\xEDli\u0161 m\xE1lo pozic animace nastaveno: '{0}'"
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533849
+  - m_Id: 32397970976768
+    m_Localized: "Animace 'Kl\xED\u010D' vy\u017Eaduje nastaven\xED '2' pozic!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32784522227712
+    m_Localized: "V tuto chv\xEDli nelze zm\u011Bnit typ animace!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33027775082496
+    m_Localized: "Animace ji\u017E b\u011B\u017E\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33348505120768
+    m_Localized: "Rameno nem\u016F\u017Ee uchopit objekt, p\u0159\xEDli\u0161 daleko:
+      '{0}m > {1}m'."
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533849
+  - m_Id: 33732099387392
+    m_Localized: "\u017D\xE1dn\xFD aktivn\xED pacient"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33918104186880
+    m_Localized: "Cvi\u010Den\xED zah\xE1jeno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34103534366720
+    m_Localized: "Cvi\u010Den\xED zastaveno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40819722366976
+    m_Localized: "Cvi\u010Den\xED zru\u0161eno - \u017E\xE1dn\xE1 aktivita pacienta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56843406487552
+    m_Localized: "C\xEDlov\xFD objekt nen\xED nad stolem!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10052801003335680
+    m_Localized: "Nepoda\u0159ilo se spustit manu\xE1ln\xED tr\xE9nink"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284077119692800
+    m_Localized: "V sou\u010Dasn\xE9 dob\u011B nen\xED aktivn\xED \u017E\xE1dn\xE9
+      cvi\u010Den\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284694248611840
+    m_Localized: "Tr\xE9nink nem\u016F\u017Ee za\u010D\xEDt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68549125916143616
+    m_Localized: "Chyb\u011Bj\xEDc\xED pozice pro kl\xED\u010D!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559360979533849
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0030cd72361d00000030cd8d541e0000

@@ -1,0 +1,26 @@
+sposob komunikacie: Socket spravy
+
+OpenVibe > Server
+ checkin - služi na priradenie miestnosti a ID spojenia na začiatku, ideálne poslané hned po pripojení
+	   (interne pre mňa aby som nebroadcastoval všetkým spojeniam správy)
+ move - sprava od vyhodnocovaca do VE, ze bol rozpoznany pohyb a ma sa spustit vizualizacia
+
+
+Server > OpenVibe
+ startEegEvaluation - sprava od (terapeuta vo) VE ze sa ma zacat vyhodnocovat EEG, ci mysli na pohyb
+ stopEegEvaluation - sprava od (terapeuta vo) VE ze sa ma skoncit vyhodnocovanie EEG, ci mysli na pohyb
+ startRestPeriod - sprava od (terapeuta vo) VE ze pacient zacina byt v klude a na nic nemysli
+ stopRestPeriod - sprava od (terapeuta vo) VE ze pacient uz nemusi byt v klude a na nic nemysliet
+ unknown - nerozpoznal som správu
+ failedCheckin - nepodarilo sa priradiť roomid a ID spojenia (napr lebo už roomid je zabraný, alebo neexistuje)
+
+- štruktúra message:
+{
+	"op": "move",
+	"roomid": "test1"
+}
+
+názvy kľúčov sú v message lowercase, takže "roomid", nie "roomId"
+hodnoty op aj roomid už sú case sensitive, takže
+		"op": "startEegEvaluation" je OK,
+		"op": "starteegevaluation" už NIE

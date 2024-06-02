@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086c5d2dba427394aa5c320889e6a758, type: 3}
+  m_Name: NetworkSettings
+  m_EditorClassIdentifier: 
+  ipAddress: 127.0.0.1
+  websocketPort: 7778
+  restPort: 7779
+  roomId: test1
+  initializedFromFile: 1
+  serversList:
+  - serverIp: 127.0.0.1
+    serverPort: 7778
+  - serverIp: 147.232.205.23
+    serverPort: 7778
+  rooms:
+  - roomID: test1
+    roomName: Bratislava - 1
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []
+  - roomID: test2
+    roomName: Bratislava - 2
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []
+  - roomID: test3
+    roomName: Praha - 1
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []
+  - roomID: test4
+    roomName: Dev test
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []
+  - roomID: test5
+    roomName: Dev test
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []
+  - roomID: test6
+    roomName: Dev test
+    loadedScene: 0
+    scene:
+      m_Handle: 0
+    users: []

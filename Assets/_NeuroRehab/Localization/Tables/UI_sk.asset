@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: b4bd6454f6a76064e82ecb8e93be55b5, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8843559335962083343
+  m_TableData:
+  - m_Id: 112995414016
+    m_Localized: Pacient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28220884594688
+    m_Localized: Terapeut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28596480323584
+    m_Localized: "Ukon\u010Di\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28822813356032
+    m_Localized: "V\xFDber Miestnosti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29504291287040
+    m_Localized: "Hlavn\xE9 menu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32156160962560
+    m_Localized: "Ovl\xE1danie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32428350320640
+    m_Localized: Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32591370334208
+    m_Localized: Nastavenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75060778708992
+    m_Localized: 'Nastavenia modelu:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75418057912320
+    m_Localized: "Prekalibrova\u0165 v\xFD\u0161ku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75951393026048
+    m_Localized: Modul XR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76102434107392
+    m_Localized: "V\u0161eobecn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76352846639104
+    m_Localized: Nastavenia modulu XR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76496941953024
+    m_Localized: "Zapnut\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76543779745792
+    m_Localized: "Vypnut\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77047519850496
+    m_Localized: "Model ovl\xE1da\u010Da VR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77831875670016
+    m_Localized: "Nastavenia zameriavacieho kr\xED\u017Ea (mrie\u017Eky)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78642294894592
+    m_Localized: "Ve\u013Ekos\u0165 kr\xED\u017Ea"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81095857876992
+    m_Localized: "Farba kr\xED\u017Ea"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81385306796032
+    m_Localized: Nastavenia kurzora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82856739942400
+    m_Localized: Nastavenia FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83091360919552
+    m_Localized: Meranie FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83203357224960
+    m_Localized: "Z\xE1pis FPS do s\xFAboru"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83470953820160
+    m_Localized: Nastavenia kvality grafiky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83623311912960
+    m_Localized: Mierka vykreslenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84503155257344
+    m_Localized: "Hlasitos\u0165 UI interakcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85299934605312
+    m_Localized: Tvorcovia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85517186969600
+    m_Localized: "Ovl\xE1da\u010De"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85665342369792
+    m_Localized: Modely
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85822934953984
+    m_Localized: Avatary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91765470998528
+    m_Localized: 'Platforma: ''{platformText.platform}'', Typ helmy (HMD): ''{platformText.hmdType}'';
+      XR zariadenie: ''{platformText.device}'''
+    m_Metadata:
+      m_Items:
+      - rid: 8843559335962083343
+  - m_Id: 107475668643840
+    m_Localized: "Odpoji\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111868417748992
+    m_Localized: "Za\u010Da\u0165 cvi\u010Denie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112043102121984
+    m_Localized: "Zastavi\u0165 cvi\u010Denie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112185473576960
+    m_Localized: "Prehra\u0165 uk\xE1\u017Eku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112401878691840
+    m_Localized: "Prehra\u0165 anim\xE1ciu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112519453421568
+    m_Localized: "Zaregistrovanie \u0161tartovacej poz\xEDcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112676689489920
+    m_Localized: Pridanie polohy pohybu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112803240030208
+    m_Localized: "Odstr\xE1nenie poslednej poz\xEDcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113023550042112
+    m_Localized: "Vymaza\u0165 v\u0161etky poz\xEDcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113138679492608
+    m_Localized: Pohyb ramena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113226873122816
+    m_Localized: Pohyb prstov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113400978681856
+    m_Localized: Premiestnenie objektu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113488308285440
+    m_Localized: "\u010Cakacia doba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113581568634880
+    m_Localized: "Doba odpo\u010Dinku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113663563083776
+    m_Localized: Opakovania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113852768137216
+    m_Localized: "Animovan\xE9 rameno pacienta:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113980765712384
+    m_Localized: "\u013Dav\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114117063815168
+    m_Localized: "Prav\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114248769155072
+    m_Localized: Oddych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114642777878528
+    m_Localized: "Vlastn\xE1 / pacientova poz\xEDcia:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114804308914176
+    m_Localized: "Posadi\u0165 sa za st\xF4l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114944314781696
+    m_Localized: "Posadi\u0165 pacienta za st\xF4l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115250465419264
+    m_Localized: 'Nastavenie stola:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115419378429952
+    m_Localized: Hore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115514505244672
+    m_Localized: Dole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115701365682176
+    m_Localized: 'Poloha pacienta:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115938993975296
+    m_Localized: 'Nastavenie oddychovej polohy ramena:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116160918794240
+    m_Localized: Prepnutie ramena do oddychovej polohy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119512264159232
+    m_Localized: "Zap\xEDnanie/vyp\xEDnanie zrkadla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460529584648192
+    m_Localized: "Cvi\u010Denie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460580931317760
+    m_Localized: "Prisp\xF4sobenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 465383489089536
+    m_Localized: Nastavenia jazyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1216064508473344
+    m_Localized: "N\xE1zov izby: '{roomText.roomName}', ID izby: '{roomText.roomId}'"
+    m_Metadata:
+      m_Items:
+      - rid: 8843559335962083343
+  - m_Id: 1646722812817408
+    m_Localized: "\xDAprava jasu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2368328828792832
+    m_Localized: "T\xF3novanie odtie\u0148ov"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874731634077696
+    m_Localized: "Manu\xE1lne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874969392394240
+    m_Localized: "Automatick\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902215679258624
+    m_Localized: "Spusti\u0165 oddych"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902224646680576
+    m_Localized: "Spusti\u0165 vyhodnocovanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902231877660672
+    m_Localized: "Zastavi\u0165 manu\xE1lne ovl\xE1danie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12321599102201856
+    m_Localized: 'Verzia: {versionText.applicationVersion}'
+    m_Metadata:
+      m_Items:
+      - rid: 8843559335962083343
+  - m_Id: 12322653797691392
+    m_Localized: "Chyba verzie aplik\xE1cie, stiahnite si spr\xE1vnu verziu klientskej
+      aplik\xE1cie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14249802905497600
+    m_Localized: "Nastavenia rozl\xED\u0161enia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14250497054420992
+    m_Localized: "Na cel\xFA obrazovku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14284052119760896
+    m_Localized: "\xDAchop"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14284126753206272
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73701930762948608
+    m_Localized: "Celkov\xE1 hlasitos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74422796489674752
+    m_Localized: "Hlasitos\u0165 hlasov\xE9ho chatu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74468644896460800
+    m_Localized: "Vypn\xFA\u0165 hlasov\xFD chat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74468879009927168
+    m_Localized: "Hlasitos\u0165 hudby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74469042415816704
+    m_Localized: "Stlmi\u0165 hudbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89237474575208448
+    m_Localized: "Prida\u0165 server"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89237680419065856
+    m_Localized: "Odstr\xE1ni\u0165 server"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89260330168176640
+    m_Localized: "Uzamkn\xFA\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92843081920237568
+    m_Localized: "Odomkn\xFA\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95793869458067456
+    m_Localized: "Uzamkn\xFA\u0165 \u013Eav\xFA ruku :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95794268101496832
+    m_Localized: "Uzamkn\xFA\u0165 prav\xFA ruku :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95796157593505792
+    m_Localized: "Uzamkn\xFA\u0165 ruku :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98600927366565888
+    m_Localized: 'Oddychove rameno pacienta:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559335962083343
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00304dd07553000000300d150152040000308dd96dc62b00

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b6d1566055ff5428f0749f36fd1f48, type: 3}
+  m_Name: GeneralSettings
+  m_EditorClassIdentifier: 
+  m_measureFps: 1
+  m_writeFpsToFile: 0
+  m_reticleScale: 2
+  m_reticleColor: {r: 1, g: 1, b: 1, a: 1}
+  m_reticleStyle: 1
+  m_cursorStyle: 0
+  m_reticlePrefabs:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 1784375691252363641, guid: 3ab627d0ae519394daa80d92d4385889, type: 3}
+    - Key: 0
+      Value: {fileID: 1784375691252363641, guid: 732e13d46a40de54189a1a59f5acb02b, type: 3}
+  reticleOptions:
+    _serializedList:
+    - Key: 0
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2070284152832
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: 15eaa6cd27aa7a64eaa8e8d7dd546a79, type: 3}
+    - Key: 1
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2076273618944
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: 40c2319274cb7e64b956f2bf495a823e, type: 3}
+  cursorOptions:
+    _serializedList:
+    - Key: 0
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2221493006336
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: b73688a62db687b4cbd8a35bec8459e6, type: 3}
+    - Key: 1
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2278418100224
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: d0e71ee413a33034c81dc874eec6c058, type: 3}
+    - Key: 2
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2391995658240
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: 337910fd212821f4da2246116527e012, type: 3}
+    - Key: 3
+      Value:
+        text:
+          m_TableReference:
+            m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+          m_TableEntryReference:
+            m_KeyId: 2461948260352
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        sprite:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+        simpleSprite: {fileID: 2800000, guid: b2de7a5c4e464dc4fb49272e42ee01f5, type: 3}
+  references:
+    version: 2
+    RefIds: []

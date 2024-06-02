@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Controls Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Controls
+  m_TableCollectionNameGuidString: 35a391479379eff43a3efa870c770a78
+  m_Entries:
+  - m_Id: 136689037312
+    m_Key: key_movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371532312576
+    m_Key: key_camera_u_d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 680002400256
+    m_Key: key_camera_l_r
+    m_Metadata:
+      m_Items: []
+  - m_Id: 880586600448
+    m_Key: key_grab_m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021611683840
+    m_Key: key_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222787280896
+    m_Key: key_ui_interact_drag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495582384128
+    m_Key: key_movement_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2767226482688
+    m_Key: key_camera_rot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910147391488
+    m_Key: key_turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3327740686336
+    m_Key: key_grab_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3591390441472
+    m_Key: key_grab_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3740011409408
+    m_Key: key_menu_wrist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3904629452800
+    m_Key: key_menu_static
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4193499557888
+    m_Key: key_ui_interact_vr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4417525723136
+    m_Key: key_ui_interact_vr_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6814415269888
+    m_Key: key_left_control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7097774059520
+    m_Key: key_right_control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233703063552
+    m_Key: key_head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7518454362112
+    m_Key: key_manipulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7891030192128
+    m_Key: key_manipulate_distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8196006424576
+    m_Key: key_manipulate_rot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8392132079616
+    m_Key: key_menu_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8581425213440
+    m_Key: key_grab_control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9087757398016
+    m_Key: key_movement_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9252996198400
+    m_Key: key_rotation_left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9469778800640
+    m_Key: key_movement_right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9647365632000
+    m_Key: key_rotation_right
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8843559335962083328
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559335962083328
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692275207246

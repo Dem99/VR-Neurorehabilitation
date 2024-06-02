@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Messages_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: 0be9220c769ff52428ebcf7f5cbe6e94, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8843559360979533848
+  m_TableData:
+  - m_Id: 8611770368
+    m_Localized: Pohyb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276514549760
+    m_Localized: Oddych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31390184583168
+    m_Localized: "Cvi\u010Denie u\u017E za\u010Dalo! Ned\xE1 sa za\u010Da\u0165 nov\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31795048165376
+    m_Localized: "Nie je pr\xEDtomn\xFD \u017Eiadny pacient! Ned\xE1 sa za\u010Da\u0165
+      cvi\u010Denie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31972593053696
+    m_Localized: "Nie je zvolen\xFD \u017Eiadny typ anim\xE1cie! Ned\xE1 sa za\u010Da\u0165
+      cvi\u010Denie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32119691489280
+    m_Localized: "Nastaven\xFDch je pr\xEDli\u0161 m\xE1lo pol\xF4h anim\xE1cie:
+      '{0}'"
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533848
+  - m_Id: 32397970976768
+    m_Localized: "Anim\xE1cia 'K\u013E\xFA\u010Da' vy\u017Eaduje nastaven\xE9 '2'
+      poz\xEDcie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32784522227712
+    m_Localized: "V tejto chv\xEDli nie je mo\u017En\xE9 zmeni\u0165 typ anim\xE1cie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33027775082496
+    m_Localized: "Anim\xE1cia je u\u017E spusten\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33348505120768
+    m_Localized: "Rameno nem\xF4\u017Ee uchopi\u0165 predmet, pr\xEDli\u0161 \u010Faleko:
+      '{0}m > {1}m'."
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533848
+  - m_Id: 33732099387392
+    m_Localized: "\u017Diadny akt\xEDvny pacient"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33918104186880
+    m_Localized: "Cvi\u010Denie sa za\u010Dalo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34103534366720
+    m_Localized: "Cvi\u010Denie zastaven\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40819722366976
+    m_Localized: "Cvi\u010Denie zru\u0161en\xE9 - \u017Eiadna aktivita pacienta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56843406487552
+    m_Localized: "Cie\u013Eov\xFD objekt nie je nad stolom!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10052801003335680
+    m_Localized: "Nepodarilo sa spusti\u0165 manu\xE1lny tr\xE9ning"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284077119692800
+    m_Localized: "V s\xFA\u010Dasnosti nie je akt\xEDvny \u017Eiadny tr\xE9ning"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284694248611840
+    m_Localized: "Tr\xE9ning sa ned\xE1 spusti\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68549125916143616
+    m_Localized: "Ch\xFDbaj\xFAca poz\xEDcia pre k\u013E\xFA\u010D!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559360979533848
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0030cd72361d00000030cd8d541e0000

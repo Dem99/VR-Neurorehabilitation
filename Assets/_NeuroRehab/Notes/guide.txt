@@ -1,0 +1,7 @@
+- tréning (websocket)
+
+- obyčajný režim
+
+- manual režim
+
+ - rest, spawn, move tlačidla pošlu request aj na openVibe

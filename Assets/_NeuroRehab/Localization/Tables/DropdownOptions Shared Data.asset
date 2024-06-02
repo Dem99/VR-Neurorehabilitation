@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DropdownOptions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DropdownOptions
+  m_TableCollectionNameGuidString: 4875d4aef18f6a241a21716f62ad566e
+  m_Entries:
+  - m_Id: 2070284152832
+    m_Key: reticle_filled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2076273618944
+    m_Key: reticle_empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2221493006336
+    m_Key: cursor_simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278418100224
+    m_Key: cursor_w_g
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2391995658240
+    m_Key: cursor_w_o
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2461948260352
+    m_Key: cursor_black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41125533265920
+    m_Key: block
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41137784827904
+    m_Key: cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41147888906240
+    m_Key: key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41159263858688
+    m_Key: cup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41673200316416
+    m_Key: off
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8843559358432542728
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559358432542728
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692361323183

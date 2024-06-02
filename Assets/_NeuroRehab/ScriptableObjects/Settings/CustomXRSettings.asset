@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d097839721d394db51bf8ff94a73e6, type: 3}
+  m_Name: CustomXRSettings
+  m_EditorClassIdentifier: 
+  m_xrActive: 0
+  m_hmdType: 0
+  m_controllerType: 3
+  m_controllerPrefabs:
+    _serializedList:
+    - Key:
+        controllerType: 0
+        isLeftHand: 1
+      Value: {fileID: 3842151363259590292, guid: 93e7fd2bfc874c14dbed2fcc698fae7c, type: 3}
+    - Key:
+        controllerType: 0
+        isLeftHand: 0
+      Value: {fileID: 3842151363259590292, guid: 6da78a53647fb9944ad56e5f86997e5f, type: 3}
+    - Key:
+        controllerType: 1
+        isLeftHand: 1
+      Value: {fileID: 6106502354628861398, guid: 9f85e65931f9dce4a9fc71def57a94ae, type: 3}
+    - Key:
+        controllerType: 1
+        isLeftHand: 0
+      Value: {fileID: 6106502354628861398, guid: 1a71b3808c513504ab8ee1d135b08165, type: 3}
+    - Key:
+        controllerType: 2
+        isLeftHand: 1
+      Value: {fileID: 7374771519285975065, guid: f60917abb131be14c964d06f582e5a01, type: 3}
+    - Key:
+        controllerType: 2
+        isLeftHand: 0
+      Value: {fileID: 7374771519285975065, guid: 4d8adcb5a70f7a243a0b5f739194ea2d, type: 3}
+    - Key:
+        controllerType: 3
+        isLeftHand: 1
+      Value: {fileID: 882114019050438946, guid: 857063b9e12fe7c4d94fb9c33b512fc7, type: 3}
+    - Key:
+        controllerType: 3
+        isLeftHand: 0
+      Value: {fileID: 9059938695216961517, guid: 0fe0ad12ad575bf47b46ec8c4d748bc3, type: 3}
+    - Key:
+        controllerType: 4
+        isLeftHand: 1
+      Value: {fileID: 5970964162162305887, guid: b02b0210c7bacb849a99ceb1939cf3f6, type: 3}
+    - Key:
+        controllerType: 4
+        isLeftHand: 0
+      Value: {fileID: 715891136938834512, guid: d9d1e67a1b5fd244987605efc09d3f0c, type: 3}
+    - Key:
+        controllerType: 5
+        isLeftHand: 1
+      Value: {fileID: 5943077387388845640, guid: 6619f901280f6ff4fb85b43605b5cf52, type: 3}
+    - Key:
+        controllerType: 5
+        isLeftHand: 0
+      Value: {fileID: 6503223248108256113, guid: 432ec2da1efa32444b52bda54e24d565, type: 3}
+    - Key:
+        controllerType: 6
+        isLeftHand: 1
+      Value: {fileID: 6447446020758575640, guid: 6d36fc476b8ddbf4fade76110a5fcd6d, type: 3}
+    - Key:
+        controllerType: 6
+        isLeftHand: 0
+      Value: {fileID: 6447446020758575640, guid: 326f7e656e408e9428d253ee408af9d0, type: 3}

@@ -1,0 +1,388 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: b4bd6454f6a76064e82ecb8e93be55b5
+  m_Entries:
+  - m_Id: 28220884594688
+    m_Key: therapist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32591370334208
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28822813356032
+    m_Key: room_list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28596480323584
+    m_Key: "quit\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112995414016
+    m_Key: patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75060778708992
+    m_Key: model_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29504291287040
+    m_Key: main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32156160962560
+    m_Key: controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32428350320640
+    m_Key: avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75418057912320
+    m_Key: recalibrate_height
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75951393026048
+    m_Key: xr_module
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76102434107392
+    m_Key: general
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76352846639104
+    m_Key: xr_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76496941953024
+    m_Key: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76543779745792
+    m_Key: off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77047519850496
+    m_Key: controller_model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77831875670016
+    m_Key: reticle_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78642294894592
+    m_Key: reticle_size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81095857876992
+    m_Key: reticle_color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81385306796032
+    m_Key: cursor_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82856739942400
+    m_Key: fps_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83091360919552
+    m_Key: fps_measure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83203357224960
+    m_Key: fps_write
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83470953820160
+    m_Key: quality_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83623311912960
+    m_Key: render_scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84503155257344
+    m_Key: ui_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85299934605312
+    m_Key: creators_credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85517186969600
+    m_Key: controllers_credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85665342369792
+    m_Key: models_credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85822934953984
+    m_Key: avatars_credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91765470998528
+    m_Key: platform_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107475668643840
+    m_Key: disconnect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111868417748992
+    m_Key: training_start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112043102121984
+    m_Key: training_stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112185473576960
+    m_Key: play_showcase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112401878691840
+    m_Key: play_anim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112519453421568
+    m_Key: register_start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112676689489920
+    m_Key: add_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112803240030208
+    m_Key: delete_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113023550042112
+    m_Key: delete_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113138679492608
+    m_Key: arm_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113226873122816
+    m_Key: finger_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113400978681856
+    m_Key: object_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113488308285440
+    m_Key: wait_dur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113581568634880
+    m_Key: rest_dur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113663563083776
+    m_Key: repetitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113852768137216
+    m_Key: animated_arm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113980765712384
+    m_Key: left_arm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114117063815168
+    m_Key: right_arm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114248769155072
+    m_Key: rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114642777878528
+    m_Key: position_header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114804308914176
+    m_Key: sit_across
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114944314781696
+    m_Key: sit_patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115250465419264
+    m_Key: table_setup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115419378429952
+    m_Key: up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115514505244672
+    m_Key: down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115701365682176
+    m_Key: patient_pos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115938993975296
+    m_Key: rest_arm_setup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116160918794240
+    m_Key: set_rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119512264159232
+    m_Key: mirror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460529584648192
+    m_Key: training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460580931317760
+    m_Key: adjustments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 465383489089536
+    m_Key: language_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1216064508473344
+    m_Key: room_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1646722812817408
+    m_Key: brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2368328828792832
+    m_Key: tonemapping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874731634077696
+    m_Key: Manual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874969392394240
+    m_Key: Automatic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902215679258624
+    m_Key: rest_manual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902224646680576
+    m_Key: eval_manual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9902231877660672
+    m_Key: stop_manual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12321599102201856
+    m_Key: version_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12322653797691392
+    m_Key: version_error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14249802905497600
+    m_Key: resolution_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14250497054420992
+    m_Key: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14284052119760896
+    m_Key: grab_marker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14284126753206272
+    m_Key: menu_marker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73701930762948608
+    m_Key: master_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74422796489674752
+    m_Key: voice_chat_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74468644896460800
+    m_Key: voice_chat_mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74468879009927168
+    m_Key: music_volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74469042415816704
+    m_Key: music_mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89237474575208448
+    m_Key: add_server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89237680419065856
+    m_Key: delete_server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89260330168176640
+    m_Key: fix_arm_position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92843081920237568
+    m_Key: unfix_arm_position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95793869458067456
+    m_Key: fix_left_arm_position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95794268101496832
+    m_Key: fix_right_arm_position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95796157593505792
+    m_Key: fix_arm_input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98600927366565888
+    m_Key: rest_arm_fix_setup
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8843559332874813440
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559332874813440
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692263430291

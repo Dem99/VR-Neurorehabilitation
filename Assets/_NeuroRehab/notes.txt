@@ -1,0 +1,9 @@
+{
+    "op":"checkin",
+    "roomid":"test1"
+}
+
+{
+    "op":"move",
+    "roomid":"test1"
+}

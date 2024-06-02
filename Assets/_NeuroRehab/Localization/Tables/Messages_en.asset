@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Messages_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0be9220c769ff52428ebcf7f5cbe6e94, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8843559360979533847
+  m_TableData:
+  - m_Id: 8611770368
+    m_Localized: Move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276514549760
+    m_Localized: Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31390184583168
+    m_Localized: Training already started! Can't start new one.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31795048165376
+    m_Localized: No patient present! Can't start training.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31972593053696
+    m_Localized: No animationy type chosen! Can't start training.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32119691489280
+    m_Localized: 'Too few animation positions set: ''{0}'''
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533847
+  - m_Id: 32397970976768
+    m_Localized: '''Key'' animation requires ''2'' positions set!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32784522227712
+    m_Localized: Unable to change animation type at this moment!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33027775082496
+    m_Localized: Animation already running
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33348505120768
+    m_Localized: 'Arm cannot grab object, too far away: ''{0}m > {1}m''.'
+    m_Metadata:
+      m_Items:
+      - rid: 8843559360979533847
+  - m_Id: 33732099387392
+    m_Localized: No active patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33918104186880
+    m_Localized: Training started.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34103534366720
+    m_Localized: Training stopped.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40819722366976
+    m_Localized: '"Training cancelled - no activity from patient"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56843406487552
+    m_Localized: Target object not above table!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10052801003335680
+    m_Localized: Failed to start manual training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284077119692800
+    m_Localized: No training currently active
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61284694248611840
+    m_Localized: Training can't start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68549125916143616
+    m_Localized: Missing position for key!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8843559360979533847
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0030cd72361d00000030cd8d541e0000

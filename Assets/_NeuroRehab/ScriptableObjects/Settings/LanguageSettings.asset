@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d673bb4fa135f247bdb1f5d153bf917, type: 3}
+  m_Name: LanguageSettings
+  m_EditorClassIdentifier: 
+  m_languageOptions:
+  - language: 0
+    languageReadable: English
+    sprite: {fileID: 21300000, guid: e85c36cd270e5ba4e96c40004ff47cec, type: 3}
+  - language: 1
+    languageReadable: Slovensky
+    sprite: {fileID: 21300000, guid: 5343f877e75d836418c6cbdee850e5f4, type: 3}
+  - language: 2
+    languageReadable: "\u010Cesky"
+    sprite: {fileID: 21300000, guid: a39110ca9d77f084a8f70bc9e9d9b7e7, type: 3}
+  m_language: 0

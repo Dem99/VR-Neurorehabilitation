@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300288512a341aa4bb662b62c53ef6b7, type: 3}
+  m_Name: AnimationSettings
+  m_EditorClassIdentifier: 
+  animTypeOptions:
+  - animationType: 0
+    localizedDropdownOption:
+      text:
+        m_TableReference:
+          m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+        m_TableEntryReference:
+          m_KeyId: 41125533265920
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      sprite:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+      simpleSprite: {fileID: 2800000, guid: 40bf3178dc87ab643a2315cb49a8e0cb, type: 3}
+  - animationType: 1
+    localizedDropdownOption:
+      text:
+        m_TableReference:
+          m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+        m_TableEntryReference:
+          m_KeyId: 41137784827904
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      sprite:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+      simpleSprite: {fileID: 2800000, guid: f1ee08ffbf419bf4f88c443dbaa2b97a, type: 3}
+  - animationType: 2
+    localizedDropdownOption:
+      text:
+        m_TableReference:
+          m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+        m_TableEntryReference:
+          m_KeyId: 41159263858688
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      sprite:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+      simpleSprite: {fileID: 2800000, guid: 04853dc4fc3efd64b8392fc8436dd60b, type: 3}
+  - animationType: 3
+    localizedDropdownOption:
+      text:
+        m_TableReference:
+          m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+        m_TableEntryReference:
+          m_KeyId: 41147888906240
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      sprite:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+      simpleSprite: {fileID: 2800000, guid: a5ac4947319479b43a9ea2289f2f970b, type: 3}
+  - animationType: -1
+    localizedDropdownOption:
+      text:
+        m_TableReference:
+          m_TableCollectionName: GUID:4875d4aef18f6a241a21716f62ad566e
+        m_TableEntryReference:
+          m_KeyId: 41673200316416
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      sprite:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+      simpleSprite: {fileID: 0}
+  targetPrefabs:
+    _serializedList:
+    - Key: 0
+      Value:
+        prefab: {fileID: 4585951089911290167, guid: 187b5e0706a658c41807f396198c9070, type: 3}
+        prefabFake: {fileID: 2118952973532061121, guid: 83818a48cdb0cc24b9dadcdf5207209b, type: 3}
+        prefabExtra: {fileID: 0}
+    - Key: 1
+      Value:
+        prefab: {fileID: 1241488487069944307, guid: 40fe8f4a9268b7a4ebe31233411b94ed, type: 3}
+        prefabFake: {fileID: 1241488487069944307, guid: 5145697b12375a144ae28480da9c0102, type: 3}
+        prefabExtra: {fileID: 0}
+    - Key: 2
+      Value:
+        prefab: {fileID: 1241488487069944307, guid: 2b1054fd8afd78b4f980e73bcf87e511, type: 3}
+        prefabFake: {fileID: 1241488487069944307, guid: 6477a5d14e4c74a45af9a46af6181bdc, type: 3}
+        prefabExtra: {fileID: 0}
+    - Key: 3
+      Value:
+        prefab: {fileID: 1241488487069944307, guid: 60e5cf70978117c48abdabd14b958b8b, type: 3}
+        prefabFake: {fileID: 1241488487069944307, guid: d7a3c662cec7e6e489fd5832e9f712d9, type: 3}
+        prefabExtra: {fileID: 7931688326429741820, guid: 7b67e2b558688d347b3ed4e6326978e5, type: 3}
+  references:
+    version: 2
+    RefIds: []
